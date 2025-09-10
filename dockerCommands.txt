@@ -1,0 +1,3 @@
+******************************* DOCKER COMMANDS *************************
+
+docker ps -- Show all containers and all
