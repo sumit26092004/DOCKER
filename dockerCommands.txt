@@ -6,3 +6,6 @@ docker images — to see which images are available.
 docker run hello-world — this will runs the image
 docker build -t [image name]  [Path] — to make a docker image from docker file you can write . if you are at the path
 docker run [image name] — to run that project
+
+docker rmi -- used to delete images
+
