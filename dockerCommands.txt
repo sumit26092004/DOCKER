@@ -13,3 +13,5 @@ docker images -- used to list all images
 docker run [image name] — to run that project
 docker run -p 3000:3000 [Image name]  — used to run on a particular port.
 
+these commands are enough to learn docker ret will come from expirence.
+
