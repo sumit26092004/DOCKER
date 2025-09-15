@@ -15,3 +15,6 @@ docker run -p 3000:3000 [Image name]  — used to run on a particular port.
 
 these commands are enough to learn docker ret will come from expirence.
 
+Docker ko Production mai launch nhi kr skte kyuki uske crash hone ke chances zyada h so hm docker containers ko Orchestrate krte h Orchestration mtlb various docker containers ko manage krna.
+For Example — If kisi container mai zyada traffic aagya toh scale krdeta h aur agr crash hogya toh use heal krdeta h.
+
